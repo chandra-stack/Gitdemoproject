@@ -1,0 +1,6 @@
+https://www.python.org/downloads/
+
+Download the package which ever you want based on the OS which is running on your machine.
+
+Once installation is done, check whether its working in your cmd prompt.
+Try to install pip from cmd, using  pip install requests or python -m pip install --upgrade pip for upgrading the existing pip.
